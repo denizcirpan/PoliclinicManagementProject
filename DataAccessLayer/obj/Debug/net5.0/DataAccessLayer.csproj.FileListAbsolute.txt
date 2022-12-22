@@ -1,0 +1,17 @@
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.deps.json
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\bin\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\bin\Debug\net5.0\CoreLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\bin\Debug\net5.0\CoreLayer.pdb
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\ref\DataAccessLayer.dll
+C:\Users\serka\source\repos\CBYSbil387\DataAccessLayer\obj\Debug\net5.0\DataAccessLayer.pdb
